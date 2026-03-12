@@ -1,0 +1,23 @@
+[
+  {
+    "id": "excalidraw-plugin",
+    "name": "Excalidraw-plugin",
+    "version": "1.0.0",
+    "description": "A React plugin with canvas drawing using Excalidraw-plugin",
+    "icon": "https://raw.githubusercontent.com/avinashiitb/excalidraw-plugin/main/public/Icons.svg",
+    "categories": ["drawing", "whiteboard", "collaboration"],
+    "tags": ["drawing", "whiteboard", "collaboration"],
+    "downloadUrl": "https://github.com/avinashiitb/excalidraw-plugin/releases/excalidraw-plugin-1.0.0.zip",
+    "releasedAt": "2026-03-12T23:58:00Z",
+    "author": "Excalidraw",
+    "authorUrl": "https://excalidraw.com",
+    "authorEmail": "support@excalidraw.com",
+    "authorWebsite": "https://excalidraw.com",
+    "authorLocation": "San Francisco, CA",
+    "authorBio": "Excalidraw is a modern whiteboard platform for collaborative drawing and ideation.",
+    "authorAvatar": "https://excalidraw.com/avatar.png",
+    "authorTwitter": "https://twitter.com/excalidraw",
+    "authorLinkedin": "https://linkedin.com/in/excalidraw",
+    "authorGithub": "https://github.com/excalidraw"
+  }
+]
