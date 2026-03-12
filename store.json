@@ -4,7 +4,7 @@
     "name": "Excalidraw-plugin",
     "version": "1.0.0",
     "description": "A React plugin with canvas drawing using Excalidraw-plugin",
-    "icon": "https://raw.githubusercontent.com/avinashiitb/excalidraw-plugin/main/build/Icons.svg",
+    "icon": "https://raw.githubusercontent.com/avinashiitb/excalidraw-plugin/main/public/Icons.svg",
     "categories": ["drawing", "whiteboard", "collaboration"],
     "tags": ["drawing", "whiteboard", "collaboration"],
     "downloadUrl": "https://github.com/avinashiitb/excalidraw-plugin/releases/download/v1.0.0/excalidraw-plugin-1.0.0.zip",
