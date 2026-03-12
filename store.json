@@ -7,7 +7,7 @@
     "icon": "https://raw.githubusercontent.com/avinashiitb/excalidraw-plugin/main/public/Icons.svg",
     "categories": ["drawing", "whiteboard", "collaboration"],
     "tags": ["drawing", "whiteboard", "collaboration"],
-    "downloadUrl": "https://github.com/avinashiitb/excalidraw-plugin/releases/excalidraw-plugin-1.0.0.zip",
+    "downloadUrl": "https://github.com/avinashiitb/excalidraw-plugin/releases/download/v1.0.0/excalidraw-plugin-1.0.0.zip",
     "releasedAt": "2026-03-12T23:58:00Z",
     "author": "Excalidraw",
     "authorUrl": "https://excalidraw.com",
