@@ -19,5 +19,26 @@
     "authorTwitter": "https://twitter.com/excalidraw",
     "authorLinkedin": "https://linkedin.com/in/excalidraw",
     "authorGithub": "https://github.com/excalidraw"
+  },
+  {
+    "id": "mermaid-plugin",
+    "name": "Mermaid-plugin",
+    "version": "2.0.67",
+    "description": "A SvelteKit plugin for viewing and creating diagrams with Mermaid.js",
+    "icon": "https://raw.githubusercontent.com/avinashiitb/mermaid-plugin/main/static/icons/mermaid.svg",
+    "categories": ["diagrams", "charts", "documentation"],
+    "tags": ["mermaid", "charts", "diagrams"],
+    "downloadUrl": "https://github.com/avinashiitb/mermaid-plugin/releases/download/v2.0.67/mermaid-plugin-2.0.67.zip",
+    "releasedAt": "2026-03-18T21:00:00Z",
+    "author": "Avinash",
+    "authorUrl": "https://github.com/avinashiitb",
+    "authorEmail": "support@mermaid.ai",
+    "authorWebsite": "https://mermaid.live",
+    "authorLocation": "San Francisco, CA",
+    "authorBio": "Mermaid is an open-source tool for generating charts and diagrams from text.",
+    "authorAvatar": "https://mermaid.live/favicon.svg",
+    "authorTwitter": "https://twitter.com/mermaid_js",
+    "authorLinkedin": "https://linkedin.com/company/mermaid-js",
+    "authorGithub": "https://github.com/avinashiitb/mermaid-plugin"
   }
 ]
