@@ -28,7 +28,7 @@
     "icon": "https://raw.githubusercontent.com/avinashiitb/mermaid-plugin/main/static/icons/mermaid.svg",
     "categories": ["diagrams", "charts", "documentation"],
     "tags": ["mermaid", "charts", "diagrams"],
-    "downloadUrl": "https://github.com/avinashiitb/mermaid-plugin/releases/download/v2.0.67/mermaid-plugin-2.0.67.zip",
+    "downloadUrl": "https://github.com/avinashiitb/mermaid-plugin/releases/download/v2.1.0/mermaid-plugin-2.0.67.zip",
     "releasedAt": "2026-03-18T21:00:00Z",
     "author": "Avinash",
     "authorUrl": "https://github.com/avinashiitb",
