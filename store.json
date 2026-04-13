@@ -46,7 +46,7 @@
     "name": "Code-Editor",
     "version": "0.1.0",
     "description": "A React plugin with a code editor based on CodeMirror.",
-    "icon": "https://raw.githubusercontent.com/avinashiitb/code-editor/main/public/favicon.ico",
+    "icon": "https://raw.githubusercontent.com/avinashiitb/code-editor/main/public/Icons.svg",
     "categories": ["editor", "development", "coding"],
     "tags": ["code", "codemirror", "editor"],
     "downloadUrl": "https://github.com/avinashiitb/code-editor/releases/download/v0.1.0/code-editor-0.1.0.zip",
