@@ -40,5 +40,24 @@
     "authorTwitter": "https://twitter.com/mermaid_js",
     "authorLinkedin": "https://linkedin.com/company/mermaid-js",
     "authorGithub": "https://github.com/avinashiitb/mermaid-plugin"
+  },
+  {
+    "id": "code-editor",
+    "name": "Code-Editor",
+    "version": "0.1.0",
+    "description": "A React plugin with a code editor based on CodeMirror.",
+    "icon": "https://raw.githubusercontent.com/avinashiitb/code-editor/main/public/favicon.ico",
+    "categories": ["editor", "development", "coding"],
+    "tags": ["code", "codemirror", "editor"],
+    "downloadUrl": "https://github.com/avinashiitb/code-editor/releases/download/v0.1.0/code-editor-0.1.0.zip",
+    "releasedAt": "2026-04-13T00:00:00Z",
+    "author": "Avinash",
+    "authorUrl": "https://github.com/avinashiitb",
+    "authorEmail": "support@example.com",
+    "authorWebsite": "https://github.com/avinashiitb/code-editor",
+    "authorLocation": "San Francisco, CA",
+    "authorBio": "Code Editor is a modern plugin for writing code inside the platform.",
+    "authorAvatar": "https://github.com/avinashiitb.png",
+    "authorGithub": "https://github.com/avinashiitb/code-editor"
   }
 ]
