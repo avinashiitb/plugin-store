@@ -65,18 +65,18 @@
     "name": "Promptly",
     "version": "0.1.0",
     "description": "A fully functional terminal emulator for executing command-line tasks directly within the platform.",
-    "icon": "https://raw.githubusercontent.com/avinashiitb/Devscribe-terminal/main/public/Icons.svg",
+    "icon": "https://raw.githubusercontent.com/avinashiitb/Promptly/main/public/Icons.svg",
     "categories": ["terminal", "development", "tools"],
     "tags": ["terminal", "cli", "shell"],
-    "downloadUrl": "https://github.com/avinashiitb/Devscribe-terminal/releases/download/v0.1.0/promptly-0.1.0.zip",
+    "downloadUrl": "https://github.com/avinashiitb/Promptly/releases/download/v0.1.0/promptly-0.1.0.zip",
     "releasedAt": "2026-04-21T00:00:00Z",
     "author": "Avinash",
     "authorUrl": "https://github.com/avinashiitb",
     "authorEmail": "support@example.com",
-    "authorWebsite": "https://github.com/avinashiitb/Devscribe-terminal",
+    "authorWebsite": "https://github.com/avinashiitb/Promptly",
     "authorLocation": "San Francisco, CA",
     "authorBio": "Promptly is a modern terminal plugin for the platform.",
     "authorAvatar": "https://github.com/avinashiitb.png",
-    "authorGithub": "https://github.com/avinashiitb/Devscribe-terminal"
+    "authorGithub": "https://github.com/avinashiitb/Promptly"
   }
 ]
