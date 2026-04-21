@@ -59,5 +59,24 @@
     "authorBio": "Code Editor is a modern plugin for writing code inside the platform.",
     "authorAvatar": "https://github.com/avinashiitb.png",
     "authorGithub": "https://github.com/avinashiitb/code-editor"
+  },
+  {
+    "id": "promptly",
+    "name": "Promptly",
+    "version": "0.1.0",
+    "description": "A React plugin with a terminal emulator.",
+    "icon": "https://raw.githubusercontent.com/avinashiitb/Devscribe-terminal/main/public/Icons.svg",
+    "categories": ["terminal", "development", "tools"],
+    "tags": ["terminal", "cli", "shell"],
+    "downloadUrl": "https://github.com/avinashiitb/Devscribe-terminal/releases/download/v0.1.0/promptly-0.1.0.zip",
+    "releasedAt": "2026-04-21T00:00:00Z",
+    "author": "Avinash",
+    "authorUrl": "https://github.com/avinashiitb",
+    "authorEmail": "support@example.com",
+    "authorWebsite": "https://github.com/avinashiitb/Devscribe-terminal",
+    "authorLocation": "San Francisco, CA",
+    "authorBio": "Promptly is a modern terminal plugin for the platform.",
+    "authorAvatar": "https://github.com/avinashiitb.png",
+    "authorGithub": "https://github.com/avinashiitb/Devscribe-terminal"
   }
 ]
