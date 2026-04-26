@@ -87,7 +87,7 @@
     "icon": "https://raw.githubusercontent.com/avinashiitb/json-analyzer/main/build/Icons.svg",
     "categories": ["data", "development", "tools"],
     "tags": ["json", "analyzer", "diff"],
-    "downloadUrl": "https://github.com/avinashiitb/json-analyzer/releases/download/v1.0.0/json-analyzer-1.0.0.zip",
+    "downloadUrl": "https://github.com/avinashiitb/json-analyzer/releases/download/v0.1.0/json-analyzer-0.1.0.zip",
     "releasedAt": "2026-04-26T00:00:00Z",
     "author": "Avinash",
     "authorUrl": "https://github.com/avinashiitb",
