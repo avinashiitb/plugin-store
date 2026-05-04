@@ -97,5 +97,32 @@
     "authorBio": "JSON Analyzer is a modern tool for viewing, formatting, and diffing JSON.",
     "authorAvatar": "https://github.com/avinashiitb.png",
     "authorGithub": "https://github.com/avinashiitb/json-analyzer"
+  },
+  {
+    "id": "protocol-x",
+    "name": "ProtocolX",
+    "version": "1.0.0",
+    "description": "A standalone API documentation and testing plugin supporting REST, WebSockets, MQTT, and more.",
+    "icon": "https://raw.githubusercontent.com/avinashiitb/protocol-x/main/build/Icons.svg",
+    "categories": ["documentation", "realtime", "protocols"],
+    "tags": [
+      "protocol-x",
+      "api",
+      "documentation",
+      "mqtt",
+      "websockets",
+      "sqs",
+      "kafka"
+    ],
+    "downloadUrl": "https://github.com/avinashiitb/protocol-x/releases/download/v1.0.0/protocol-x-1.0.0.zip",
+    "releasedAt": "2026-05-04T00:00:00Z",
+    "author": "Avinash",
+    "authorUrl": "https://github.com/avinashiitb",
+    "authorEmail": "support@example.com",
+    "authorWebsite": "https://github.com/avinashiitb/protocol-x",
+    "authorLocation": "San Francisco, CA",
+    "authorBio": "ProtocolX is a powerful tool for API documentation and testing across multiple protocols.",
+    "authorAvatar": "https://github.com/avinashiitb.png",
+    "authorGithub": "https://github.com/avinashiitb/protocol-x"
   }
 ]
