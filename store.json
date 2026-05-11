@@ -124,5 +124,24 @@
     "authorBio": "ProtocolX is a powerful tool for API documentation and testing across multiple protocols.",
     "authorAvatar": "https://github.com/avinashiitb.png",
     "authorGithub": "https://github.com/avinashiitb/protocol-x"
+  },
+  {
+    "id": "data-bridge",
+    "name": "Data Bridge",
+    "version": "1.0.0",
+    "description": "Multi-database client for running queries, browsing schemas, and viewing results.",
+    "icon": "https://raw.githubusercontent.com/avinashiitb/data-bridge/main/dist/Icons.svg",
+    "categories": ["database", "development", "tools"],
+    "tags": ["database", "sql", "data-bridge"],
+    "downloadUrl": "https://github.com/avinashiitb/data-bridge/releases/download/v1.0.0/data-bridge-1.0.0.zip",
+    "releasedAt": "2026-05-11T00:00:00Z",
+    "author": "Avinash",
+    "authorUrl": "https://github.com/avinashiitb",
+    "authorEmail": "support@example.com",
+    "authorWebsite": "https://github.com/avinashiitb/data-bridge",
+    "authorLocation": "San Francisco, CA",
+    "authorBio": "Data Bridge is a multi-database client for running queries, browsing schemas, and viewing results.",
+    "authorAvatar": "https://github.com/avinashiitb.png",
+    "authorGithub": "https://github.com/avinashiitb/data-bridge"
   }
 ]
