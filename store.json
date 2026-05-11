@@ -103,7 +103,7 @@
     "name": "ProtocolX",
     "version": "1.0.0",
     "description": "A standalone API documentation and testing plugin supporting REST, WebSockets, MQTT, and more.",
-    "icon": "https://raw.githubusercontent.com/avinashiitb/protocol-x/main/build/Icons.svg",
+    "icon": "https://raw.githubusercontent.com/avinashiitb/protocol-x/main/build/icons.svg",
     "categories": ["documentation", "realtime", "protocols"],
     "tags": [
       "protocol-x",
