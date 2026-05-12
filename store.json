@@ -130,7 +130,7 @@
     "name": "Data Bridge",
     "version": "1.0.0",
     "description": "Multi-database client for running queries, browsing schemas, and viewing results.",
-    "icon": "https://raw.githubusercontent.com/avinashiitb/data-bridge/main/build/Icons.svg",
+    "icon": "https://raw.githubusercontent.com/avinashiitb/data-bridge/main/build/icons.svg",
     "categories": ["database", "development", "tools"],
     "tags": ["database", "sql", "data-bridge"],
     "downloadUrl": "https://github.com/avinashiitb/data-bridge/releases/download/v1.0.0/data-bridge-1.0.0.zip",
