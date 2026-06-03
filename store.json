@@ -135,5 +135,59 @@
     "authorBio": "Redash is a database client for running queries, browsing schemas, and viewing results.",
     "authorAvatar": "https://github.com/avinashiitb.png",
     "authorGithub": "https://github.com/avinashiitb/redash"
+  },
+  {
+    "id": "document-editor",
+    "name": "Document",
+    "version": "1.0.0",
+    "description": "A beautiful, rich-text collaborative document editor plugin powered by BlockNote.",
+    "icon": "https://raw.githubusercontent.com/avinashiitb/document-editor/main/build/Icons.svg",
+    "categories": [
+      "editor",
+      "collaboration",
+      "documents"
+    ],
+    "tags": [
+      "editor",
+      "document",
+      "blocknote"
+    ],
+    "downloadUrl": "https://github.com/avinashiitb/document-editor/releases/download/v0.1.0/document-editor-0.1.0.zip",
+    "releasedAt": "2026-06-03T04:06:08Z",
+    "author": "Avinash",
+    "authorUrl": "https://github.com/avinashiitb",
+    "authorEmail": "support@example.com",
+    "authorWebsite": "https://github.com/avinashiitb/document-editor",
+    "authorLocation": "San Francisco, CA",
+    "authorBio": "Document Editor is a collaborative rich-text editor powered by BlockNote.",
+    "authorAvatar": "https://github.com/avinashiitb.png",
+    "authorGithub": "https://github.com/avinashiitb/document-editor"
+  },
+  {
+    "id": "archflow",
+    "name": "ArchFlow",
+    "version": "1.0.0",
+    "description": "A beautiful architecture diagram editor plugin powered by React Flow.",
+    "icon": "https://raw.githubusercontent.com/avinashiitb/arch-flow/main/build/Icons.svg",
+    "categories": [
+      "diagrams",
+      "charts",
+      "collaboration"
+    ],
+    "tags": [
+      "diagrams",
+      "react-flow",
+      "editor"
+    ],
+    "downloadUrl": "https://github.com/avinashiitb/arch-flow/releases/download/v0.10.0/archflow-0.1.0.zip",
+    "releasedAt": "2026-06-03T04:14:52Z",
+    "author": "Avinash",
+    "authorUrl": "https://github.com/avinashiitb",
+    "authorEmail": "support@example.com",
+    "authorWebsite": "https://github.com/avinashiitb/arch-flow",
+    "authorLocation": "San Francisco, CA",
+    "authorBio": "ArchFlow is a beautiful architecture diagram editor powered by React Flow.",
+    "authorAvatar": "https://github.com/avinashiitb.png",
+    "authorGithub": "https://github.com/avinashiitb/arch-flow"
   }
 ]
