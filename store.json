@@ -84,7 +84,7 @@
     "name": "Dynamic Document",
     "version": "1.0.0",
     "description": "Rich text document editor with EditorJS as an external plugin.",
-    "icon": "https://raw.githubusercontent.com/avinashiitb/dynamic-document-plugin/main/build/Icons.svg",
+    "icon": "https://raw.githubusercontent.com/avinashiitb/dynamic-document/main/build/Icons.svg",
     "categories": [
       "editor",
       "documents"
@@ -99,11 +99,11 @@
     "author": "Avinash",
     "authorUrl": "https://github.com/avinashiitb",
     "authorEmail": "support@example.com",
-    "authorWebsite": "https://github.com/avinashiitb/dynamic-document-plugin",
+    "authorWebsite": "https://github.com/avinashiitb/dynamic-document",
     "authorLocation": "San Francisco, CA",
     "authorBio": "Dynamic Document is a rich text editor plugin powered by EditorJS.",
     "authorAvatar": "https://github.com/avinashiitb.png",
-    "authorGithub": "https://github.com/avinashiitb/dynamic-document-plugin"
+    "authorGithub": "https://github.com/avinashiitb/dynamic-document"
   }
 
 ]
