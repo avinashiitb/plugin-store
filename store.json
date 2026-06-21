@@ -82,7 +82,7 @@
   {
     "id": "document",
     "name": "Dynamic Document",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Rich text document editor with EditorJS as an external plugin.",
     "icon": "https://raw.githubusercontent.com/avinashiitb/dynamic-document/main/build/Icons.svg",
     "categories": [
