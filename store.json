@@ -9,9 +9,9 @@
     "tags": ["drawing", "whiteboard", "collaboration"],
     "downloadUrl": "https://github.com/avinashiitb/excalidraw-plugin/releases/download/v1.0.0/excalidraw-plugin-1.0.0.zip",
     "releasedAt": "2026-03-12T23:58:00Z",
-    "author": "Excalidraw",
-    "authorUrl": "https://excalidraw.com",
-    "authorEmail": "support@excalidraw.com",
+    "author": "Devscribe",
+    "authorUrl": "https://github.com/avinashiitb",
+    "authorEmail": "devscribe.app@gmail.com",
     "authorWebsite": "https://excalidraw.com",
     "authorLocation": "San Francisco, CA",
     "authorBio": "Excalidraw is a modern whiteboard platform for collaborative drawing and ideation.",
@@ -51,9 +51,9 @@
     "tags": ["database", "sql", "redash"],
     "downloadUrl": "https://github.com/avinashiitb/redash/releases/download/v1.0.0/redash-1.0.0.zip",
     "releasedAt": "2026-05-27T00:00:00Z",
-    "author": "Avinash",
+    "author": "Devscribe",
     "authorUrl": "https://github.com/avinashiitb",
-    "authorEmail": "support@example.com",
+    "authorEmail": "devscribe.app@gmail.com",
     "authorWebsite": "https://github.com/avinashiitb/redash",
     "authorLocation": "San Francisco, CA",
     "authorBio": "Redash is a database client for running queries, browsing schemas, and viewing results.",
@@ -79,12 +79,37 @@
     "releasedAt": "2026-06-14T22:00:00Z",
     "author": "Devscribe",
     "authorUrl": "https://github.com/avinashiitb",
-    "authorEmail": "support@example.com",
+    "authorEmail": "devscribe.app@gmail.com",
     "authorWebsite": "https://github.com/avinashiitb/dynamic-document",
     "authorLocation": "San Francisco, CA",
     "authorBio": "Dynamic Document is a rich text editor plugin powered by EditorJS.",
     "authorAvatar": "https://github.com/avinashiitb.png",
     "authorGithub": "https://github.com/avinashiitb/dynamic-document"
+  },
+  {
+    "id": "diagramly",
+    "name": "Diagramly",
+    "version": "1.0.0",
+    "description": "An interactive architecture diagram creation tool powered by JointJS.",
+    "icon": "https://raw.githubusercontent.com/avinashiitb/diagramly-plugin/main/build/Icons.svg",
+    "categories": [
+      "drawing",
+      "diagrams"
+    ],
+    "tags": [
+      "diagrams",
+      "architecture",
+      "jointjs"
+    ],
+    "downloadUrl": "https://github.com/avinashiitb/diagramly-plugin/releases/download/v1.0.0/diagramly-plugin-1.0.0.zip",
+    "releasedAt": "2026-06-22T04:26:00Z",
+    "author": "Devscribe",
+    "authorUrl": "https://github.com/avinashiitb",
+    "authorEmail": "devscribe.app@gmail.com",
+    "authorWebsite": "https://github.com/avinashiitb/diagramly-plugin",
+    "authorLocation": "San Francisco, CA",
+    "authorBio": "Diagramly is an interactive architecture diagram creation tool powered by JointJS.",
+    "authorAvatar": "https://github.com/avinashiitb.png",
+    "authorGithub": "https://github.com/avinashiitb/diagramly-plugin"
   }
-
 ]
