@@ -87,7 +87,7 @@
     "authorGithub": "https://github.com/avinashiitb/dynamic-document"
   },
   {
-    "id": "diagram",
+    "id": "diagramly",
     "name": "Diagramly",
     "version": "1.0.0",
     "description": "An interactive architecture diagram creation tool powered by JointJS.",
@@ -111,5 +111,32 @@
     "authorBio": "Diagramly is an interactive architecture diagram creation tool powered by JointJS.",
     "authorAvatar": "https://github.com/avinashiitb.png",
     "authorGithub": "https://github.com/avinashiitb/diagramly-plugin"
+  },
+  {
+    "id": "sequence-diagram",
+    "name": "Sequence Diagram",
+    "version": "1.0.0",
+    "description": "A sequence diagram plugin using JointJS and CodeMirror",
+    "icon": "https://raw.githubusercontent.com/avinashiitb/sequence-diagram/main/build/Icons.svg",
+    "categories": [
+      "diagrams",
+      "drawing"
+    ],
+    "tags": [
+      "diagrams",
+      "sequence-diagram",
+      "jointjs",
+      "codemirror"
+    ],
+    "downloadUrl": "https://github.com/avinashiitb/sequence-diagram/releases/download/v1.0.0/sequence-diagram-1.0.0.zip",
+    "releasedAt": "2026-07-02T18:27:33Z",
+    "author": "Devscribe",
+    "authorUrl": "https://github.com/avinashiitb",
+    "authorEmail": "devscribe.app@gmail.com",
+    "authorWebsite": "https://github.com/avinashiitb/sequence-diagram",
+    "authorLocation": "San Francisco, CA",
+    "authorBio": "Sequence Diagram is a plugin for creating diagrams using JointJS and CodeMirror.",
+    "authorAvatar": "https://github.com/avinashiitb.png",
+    "authorGithub": "https://github.com/avinashiitb/sequence-diagram"
   }
 ]
