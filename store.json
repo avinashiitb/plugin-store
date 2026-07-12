@@ -165,5 +165,33 @@
     "authorBio": "DevScribe Sheet is a collaborative spreadsheet plugin using Handsontable and HyperFormula.",
     "authorAvatar": "https://github.com/avinashiitb.png",
     "authorGithub": "https://github.com/avinashiitb/devscribe-sheet"
+  },
+  {
+    "id": "vault",
+    "name": "Vault",
+    "version": "1.0.0",
+    "description": "A beautiful and secure vault plugin for storing credentials, cards, bank accounts, and secrets.",
+    "icon": "https://raw.githubusercontent.com/avinashiitb/vault/main/build/Icons.svg",
+    "categories": [
+      "utilities",
+      "security"
+    ],
+    "tags": [
+      "vault",
+      "security",
+      "credentials",
+      "secrets"
+    ],
+    "downloadUrl": "https://github.com/avinashiitb/vault/releases/download/v1.0.0/vault-1.0.0.zip",
+    "releasedAt": "2026-07-12T19:16:59Z",
+    "author": "Devscribe",
+    "authorUrl": "https://github.com/avinashiitb",
+    "authorEmail": "devscribe.app@gmail.com",
+    "authorWebsite": "https://github.com/avinashiitb/vault",
+    "authorLocation": "San Francisco, CA",
+    "authorBio": "Vault is a beautiful and secure vault plugin for storing credentials, cards, bank accounts, and secrets.",
+    "authorAvatar": "https://github.com/avinashiitb.png",
+    "authorGithub": "https://github.com/avinashiitb/vault"
   }
 ]
+
