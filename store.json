@@ -192,6 +192,33 @@
     "authorBio": "Vault is a beautiful and secure vault plugin for storing credentials, cards, bank accounts, and secrets.",
     "authorAvatar": "https://github.com/avinashiitb.png",
     "authorGithub": "https://github.com/avinashiitb/vault"
+  },
+  {
+    "id": "drawio-plugin",
+    "name": "Drawio",
+    "version": "1.0.0",
+    "description": "A plugin for draw.io diagrams",
+    "icon": "https://raw.githubusercontent.com/avinashiitb/drawio-plugin/main/build/Icons.svg",
+    "categories": [
+      "drawing",
+      "diagrams"
+    ],
+    "tags": [
+      "drawing",
+      "diagrams",
+      "drawio"
+    ],
+    "downloadUrl": "https://github.com/avinashiitb/drawio-plugin/releases/download/v1.0.0/drawio-plugin-1.0.0.zip",
+    "releasedAt": "2026-07-12T19:37:18Z",
+    "author": "Devscribe",
+    "authorUrl": "https://github.com/avinashiitb",
+    "authorEmail": "devscribe.app@gmail.com",
+    "authorWebsite": "https://github.com/avinashiitb/drawio-plugin",
+    "authorLocation": "San Francisco, CA",
+    "authorBio": "Drawio is a plugin for draw.io diagrams.",
+    "authorAvatar": "https://github.com/avinashiitb.png",
+    "authorGithub": "https://github.com/avinashiitb/drawio-plugin"
   }
 ]
+
 
