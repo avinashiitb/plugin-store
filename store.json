@@ -142,7 +142,7 @@
   {
     "id": "devscribe-sheet",
     "name": "DevScribe Sheet",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "description": "A collaborative spreadsheet plugin using Handsontable and HyperFormula",
     "icon": "https://raw.githubusercontent.com/avinashiitb/devscribe-sheet/main/build/Icons.svg",
     "categories": [
@@ -155,8 +155,8 @@
       "handsontable",
       "hyperformula"
     ],
-    "downloadUrl": "https://github.com/avinashiitb/devscribe-sheet/releases/download/v1.0.2/devscribe-sheet-1.0.2.zip",
-    "releasedAt": "2026-07-08T06:03:14Z",
+    "downloadUrl": "https://github.com/avinashiitb/devscribe-sheet/releases/download/v1.1.0/devscribe-sheet-1.1.0.zip",
+    "releasedAt": "2026-07-13T11:39:48Z",
     "author": "Devscribe",
     "authorUrl": "https://github.com/avinashiitb",
     "authorEmail": "devscribe.app@gmail.com",
