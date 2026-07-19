@@ -169,7 +169,7 @@
   {
     "id": "vault",
     "name": "Vault",
-    "version": "1.1.3",
+    "version": "1.1.4",
     "description": "A beautiful and secure vault plugin for storing credentials, cards, bank accounts, and secrets.",
     "icon": "https://raw.githubusercontent.com/avinashiitb/vault/main/build/Icons.svg",
     "categories": [
@@ -182,8 +182,8 @@
       "credentials",
       "secrets"
     ],
-    "downloadUrl": "https://github.com/avinashiitb/vault/releases/download/v1.1.3/vault-1.1.3.zip",
-    "releasedAt": "2026-07-18T13:21:33Z",
+    "downloadUrl": "https://github.com/avinashiitb/vault/releases/download/v1.1.4/vault-1.1.4.zip",
+    "releasedAt": "2026-07-19T04:29:41Z",
     "author": "Devscribe",
     "authorUrl": "https://github.com/avinashiitb",
     "authorEmail": "devscribe.app@gmail.com",
