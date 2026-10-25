@@ -142,7 +142,7 @@
   {
     "id": "sequence-diagram",
     "name": "Sequence Diagram",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "description": "A sequence diagram plugin using JointJS and CodeMirror",
     "icon": "https://raw.githubusercontent.com/avinashiitb/sequence-diagram/main/build/Icons.svg",
     "categories": [
@@ -155,8 +155,8 @@
       "jointjs",
       "codemirror"
     ],
-    "downloadUrl": "https://github.com/avinashiitb/sequence-diagram/releases/download/v1.1.1/sequence-diagram-1.1.1.zip",
-    "releasedAt": "2026-07-03T18:17:34Z",
+    "downloadUrl": "https://github.com/avinashiitb/sequence-diagram/releases/download/v1.2.0/sequence-diagram-1.2.0.zip",
+    "releasedAt": "2026-10-25T19:11:31Z",
     "author": "Devscribe",
     "authorUrl": "https://github.com/avinashiitb",
     "authorEmail": "devscribe.app@gmail.com",
